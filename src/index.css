@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-blue {
+  background: linear-gradient(100deg, #46a4d2 0%, #1681ba 31%, #343feb 100%);
+}
+
+.custom-blue-reverse {
+  background: linear-gradient(100deg, #343feb 0%, #1681ba 31%, #46a4d2 100%);
+}
